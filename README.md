@@ -153,3 +153,6 @@ Bilişim Teknolojileri Öğretmeni
 ⭐ Flutter öğrenen öğrenciler için hazırlanmış eğitici bir örnek projedir.
 
 **İyi çalışmalar!**
+
+<img width="833" height="1600" alt="image" src="https://github.com/user-attachments/assets/1f7fa23e-cd32-402b-b02b-a7922858d2a9" />
+
