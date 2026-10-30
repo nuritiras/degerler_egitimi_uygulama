@@ -76,13 +76,13 @@ Bu projede aşağıdaki Flutter widget ve özellikleri kullanılmıştır:
 ### 1. Depoyu bilgisayarınıza indirin
 
 ```bash
-git clone https://github.com/nuritiras/degerler-dunyasi.git
+git clone https://github.com/nuritiras/degerler_egitimi_uygulama.git
 ```
 
 ### 2. Proje klasörüne girin
 
 ```bash
-cd degerler-dunyasi
+cd degerler_egitimi_uygulama
 ```
 
 ### 3. Paketleri kontrol edin
@@ -100,7 +100,7 @@ flutter run
 ## 📂 Proje Yapısı
 
 ```text
-degerler-dunyasi/
+degerler_egitimi_uygulama/
 │
 ├── android/
 ├── ios/
